@@ -165,6 +165,7 @@ nav .logo {
 .secimage img {
     max-width: 50vw;
     height: auto;
+    margin-top: 55px;
 }
 
 .tvtxt h1 {
